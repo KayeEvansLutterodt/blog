@@ -16,9 +16,12 @@ Like photography maps feel like the truth but constantly express a limited truth
  
 Resources
  
-http://geojson.io
+[http://geojson.io](http://geojson.io)
+
 http://y-li.me
+
 http://d3js.org
+
 https://github.com
  
 This is also a website recommended by my friend Keith
