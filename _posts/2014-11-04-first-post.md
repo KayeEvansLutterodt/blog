@@ -9,7 +9,7 @@ title: "data is becoming the new literature“
 <p class="meta">
 
 "data is becoming the new literature“
----
+
 It is an interesting challenge to flatten something that is round, the art of mapping, is restrictive in many ways. There are a number of visual signals that are used describe the area of various land masses, that it leaves few other visual tools to express other things. So one must be a bit more creative when adding layers of data to keep it understandable and beautiful.
  
 “Truthyness”
