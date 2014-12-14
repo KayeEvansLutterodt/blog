@@ -5,8 +5,7 @@ title: YAML rhymes with camel
 
 {{ page.title }}
 ================
-YAML rhymes with camel
-“Yaml array”
+
 Until I figure out how to layer my map, I can’t see the png’s that I made for the road layer. Reading code feels like reading Doctor Suess it almost makes sense, but not really.
 
 This is my code...
@@ -24,6 +23,7 @@ layers:
   - water
   - 
   - TTO_adm1
+  - 
 
 <p class="meta">
 
