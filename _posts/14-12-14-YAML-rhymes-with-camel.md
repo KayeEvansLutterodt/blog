@@ -27,6 +27,6 @@ layers:
 
 <p class="meta">
 
-
+<script src="https://gist.github.com/anonymous/86a7ae48ed21022595a5.js"></script>
 
  ![]({{sight.url }}/blog/images/theodor-dr-seuss-geisel-c-is-for-camel-pink.jpg) 
